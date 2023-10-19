@@ -17,7 +17,7 @@ span {
   height: 55px;
   margin: 0 1px;
   background-color: white;
-  animation: loading 1.4ss ease-in-out infinite;
+  animation: loading 1.4s ease-in-out infinite;
 }
 
 span:nth-child(1) {
