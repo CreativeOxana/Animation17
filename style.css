@@ -74,7 +74,7 @@ span:nth-child(12) {
   }
 
   35% {
-    transform: scaleY(1);
+    transform: scaleY(1.6);
   }
   60%,
   100% {
